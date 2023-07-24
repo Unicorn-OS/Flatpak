@@ -1,2 +1,4 @@
 # Flatpak
-home: https://flatpak.org/ install: https://www.thegeekdiary.com/flatpak-command-not-found/
+home: https://flatpak.org/
+
+install: https://flathub.org/setup/Ubuntu
