@@ -1,6 +1,6 @@
 # https://flatpak.org/setup/Fedora
 
-- name: Add the flathub flatpak repository remote ass user
+- name: Add the flathub flatpak repository remote as user
   community.general.flatpak_remote:
     name: flathub
     state: present
