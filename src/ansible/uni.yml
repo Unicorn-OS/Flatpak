@@ -1,0 +1,9 @@
+- hosts: localhost #, fedora, ubuntu
+  vars:
+    ansible_become_password: u
+    Debug: true
+
+  roles:
+  - Flatpak
+  - Flathub
+  - .test
